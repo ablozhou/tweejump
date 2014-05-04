@@ -1,14 +1,14 @@
 # Tweejump
-== tweejump介绍 == 
+## tweejump介绍 ## 
 tweejump 是cocos2d 编写的iphone游戏。通过晃动手机，看小鸟踏云能跳多高。
 
-== 编译 ==
+## 编译 ##
 用xcode打开项目文件即可编译。
 
-== 运行 ==
+## 运行 ##
 打包好后上传到iphone或ipod中运行。
 
-== 备注==
+## 备注##
 abloz.com
 2014.5.4
 
